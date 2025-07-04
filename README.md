@@ -9,7 +9,7 @@
 
 ## 🚀 About Me
 
-- 🎓 Final-year student with a passion for full-stack development  
+- 🎓 Electronics and communication graduate with a passion for full-stack development  
 - 🌐 I enjoy building websites that are fast, user-friendly, and visually appealing  
 - 🛠️ Currently exploring **Three.js**, **React + Vite**, **Django**, and **Brain-Computer Interfaces**  
 - ✍️ I write blogs and technical content that simplifies complex ideas  
@@ -27,16 +27,22 @@
 
 ## 🌐 Website I Built
 
-Check out one of my live projects:  
 👉 [ELACSTA Website](https://elacsta.web.app/#hero)
 
 ---
 
-## 📈 GitHub Stats
+## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=your-username&show_icons=true&theme=radical" alt="GitHub Stats" width="48%"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=your-username&layout=compact&theme=radical" alt="Top Languages" width="48%"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=abhijith-s-2002&theme=radical" alt="GitHub Streak" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=abhijith-s-2002&show_icons=true&theme=radical" alt="GitHub Stats" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=abhijith-s-2002&layout=compact&theme=radical" alt="Top Languages" />
 </p>
 
 ---
