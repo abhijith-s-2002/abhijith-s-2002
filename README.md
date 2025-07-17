@@ -21,7 +21,7 @@
 
 | Frontend | Backend | Database | Tools & Others |
 |:--------:|:-------:|:--------:|:--------------:|
-| HTML, CSS, JavaScript, React, TailwindCSS | Node.js, Django | MySQL, SQLite | Git, GitHub, VS Code, Figma, Postman |
+| HTML, CSS, JavaScript, React, next.js TailwindCSS | Node.js, Django, springboot | MySQL, SQLite,postgreSQL | Git, GitHub, VS Code, Figma, Postman |
 
 ---
 
